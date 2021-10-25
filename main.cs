@@ -70,3 +70,4 @@ class Manager : Employee {
         Console.WriteLine($"завод: {zavod}\n");
     }
 }
+//
